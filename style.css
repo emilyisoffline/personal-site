@@ -13,12 +13,16 @@ html, body {
 	width: 500px;
 }
 
-h3, a, p, li {
+a, p, li {
      color: #cdd6f4;
 }
 
 h2 {
     color: #b4befe;
+}
+
+h3 {
+    color: #89b4fa;
 }
 
 h2, h3 {
